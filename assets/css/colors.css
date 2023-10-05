@@ -1,0 +1,9 @@
+
+:root{
+    --color-primary: #F2ACCD;
+    --color-link-copy: #020F59;
+}
+
+.bg-primary-pink{
+    background-color: var(--color-primary);
+}
